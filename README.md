@@ -1,3 +1,3 @@
 # LeetCode
 
-## Just random LeetCode Answers
+Just random LeetCode stuff
